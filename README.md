@@ -15,4 +15,5 @@ kruskal_algorithm/
  ── results_avg.txt   # Файл з усередненими результатами
  
  ── __init__.py
+ 
  ── __pycache__/
